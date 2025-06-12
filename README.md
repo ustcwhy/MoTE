@@ -37,7 +37,7 @@ Note that we provide the master weights of MoTE-1.5B and perform online quantiza
 This repository is built using [LMM-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) and [the HuggingFace's transformers](https://github.com/huggingface/transformers).
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
 
 ### Contact Information
 
