@@ -3,7 +3,7 @@
 
 - June 2025: [MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models]()
 
-## Evaluation on VQA
+## Evaluation
 
 We use the [LMM-Eval]() toolkit to conduct evaluations on VQA tasks. We provide the [transformers repo]() in which we modify the [modeling_qwen2_moe.py]() to support the W1.58-A8 experts. 
 
@@ -17,7 +17,7 @@ cd MoTE/
 bash vl_eval_setup.sh # only use for multimodal evaluation
 ```
 
-First, download the MoTE model from HuggingFace:
+First, download the MoTE-1.5B-bf16 model from HuggingFace:
 
 ```bash
 git clone https://huggingface.co/hongyuw/MoTE-1.5B-bf16
