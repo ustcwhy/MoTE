@@ -1,5 +1,5 @@
 # MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models
-[[paper]](https://arxiv.org/abs/2506.14435) [[model]]() [[code]](https://github.com/ustcwhy/MoTE)
+[[paper]](https://arxiv.org/abs/2506.14435) [[model]](https://huggingface.co/hongyuw/MoTE-1.5B-bf16) [[code]](https://github.com/ustcwhy/MoTE)
 
 - June 2025: [MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models](https://arxiv.org/abs/2506.14435)
 
